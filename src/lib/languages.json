@@ -1,0 +1,72 @@
+{
+  "cs": {
+    "locale": "cs",
+    "nativeName": "Čeština",
+    "englishName": "Czech"
+  },
+  "da": {
+    "locale": "da",
+    "nativeName": "Dansk",
+    "englishName": "Danish"
+  },
+  "de": {
+    "locale": "de",
+    "nativeName": "Deutsch",
+    "englishName": "German"
+  },
+  "en": {
+    "locale": "en",
+    "nativeName": "English",
+    "englishName": "English"
+  },
+  "es": {
+    "locale": "es",
+    "nativeName": "Español",
+    "englishName": "Spanish"
+  },
+  "fr": {
+    "locale": "fr",
+    "nativeName": "Français",
+    "englishName": "French"
+  },
+  "ko-KR": {
+    "locale": "ko-KR",
+    "nativeName": "한국어 (韩国)",
+    "englishName": "Korean (Korea)"
+  },
+  "nl": {
+    "locale": "nl",
+    "nativeName": "Nederlands",
+    "englishName": "Dutch"
+  },
+  "no": {
+    "locale": "no",
+    "nativeName": "Norsk",
+    "englishName": "Norwegian"
+  },
+  "pl": {
+    "locale": "pl",
+    "nativeName": "Polski",
+    "englishName": "Polish"
+  },
+  "pt": {
+    "locale": "pt",
+    "nativeName": "Português",
+    "englishName": "Portuguese"
+  },
+  "sv": {
+    "locale": "sv",
+    "nativeName": "Svenska",
+    "englishName": "Swedish"
+  },
+  "zh-CN": {
+    "locale": "zh-CN",
+    "nativeName": "中文（中国）",
+    "englishName": "Chinese Simplified (China)"
+  },
+  "zh-TW": {
+    "locale": "zh-TW",
+    "nativeName": "中文（台灣）",
+    "englishName": "Chinese Traditional (Taiwan)"
+  }
+}
