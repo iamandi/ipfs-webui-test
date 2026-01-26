@@ -45,7 +45,7 @@
     "ipfs-css": "^0.13.1",
     "ipfs-geoip": "^4.0.0",
     "ipfs-redux-bundle": "^6.0.1",
-    "ipld-explorer-components": "^1.5.1",
+    "ipld-explorer-components": "^8.2.2",
     "is-binary": "^0.1.0",
     "is-ipfs": "^0.6.1",
     "memoizee": "^0.4.14",
